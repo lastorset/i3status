@@ -1,0 +1,4 @@
+i3status depends on:
+
+libconfuse
+libiw
